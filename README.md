@@ -1,4 +1,4 @@
-# Agent-Baymax-
+# Agent-Baymax- Capstone project submission , Track- Agent for good , Author : Team BayMax
 
 <img width="1000" height="1000" alt="Gemini_Generated_Image_jhxtr4jhxtr4jhxt" src="https://github.com/user-attachments/assets/417e4729-b8e7-486f-ba39-6ca6ccd74442" />
 
@@ -27,4 +27,4 @@ source venv/bin/activate
 pip install -r requirements.txt
 huggingface-cli login
 ---
-DONE BY: Harshit and Krishna
+
