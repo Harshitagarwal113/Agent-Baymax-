@@ -1,6 +1,6 @@
 # Agent-Baymax-
 
-<img width="1000" height="1024" alt="Gemini_Generated_Image_jhxtr4jhxtr4jhxt" src="https://github.com/user-attachments/assets/417e4729-b8e7-486f-ba39-6ca6ccd74442" />
+<img width="1000" height="1000" alt="Gemini_Generated_Image_jhxtr4jhxtr4jhxt" src="https://github.com/user-attachments/assets/417e4729-b8e7-486f-ba39-6ca6ccd74442" />
 
 — a gentle health & calorie companion built with a local LLM.
 
